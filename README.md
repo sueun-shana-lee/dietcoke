@@ -7,8 +7,17 @@ Materials(csv,xlsx) received includes:
 - Brand official Handle Keywords to recognize and tag official posts 
 - Data dictionary with explanation of each variable name used
 
-I was first asked to complete a series of tasks to produce a deliverable within two days. Datasets can be provided upon request, they are too big to post on Github. I am currently analyzing this in new perspective, applying new analysis methods, and making the code more efficient using Python (of course), SQL and more
+I was first asked to complete a series of tasks to produce a deliverable within two days. Datasets can be provided upon request, they are too big to post on Github. Later, I realized the tasks given were not strong enough to solve the business question, so I did a new analysis solving the business question of stagnation in sales in WSW_ver2.ipynb.
 
-For Python, I am updating various versions of codes to give you the most compatible option. All codes under the same name essnetially includes the same code, so feel free to open the one with the extenstion you are most comfortable with.
+WSW_ver1.ipynb mainly shows...
+- tagging, sorting
+- sentiment analysis
+- learning and trying new materials
+
+WSW_ver2.ipynb mainly shows...
+- problem solving
+- goal-driven data analysis
+- visualization
+- data cleaning and filtering
 
 For any inquiries, please email me to sueun.shana.lee@gmail.com
